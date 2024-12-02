@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Aadhi",
+      "designation": "Tester",
+      "email": "vadithyan33@gmail.com",
+      "salary": "40000"
+    },
+    {
+      "id": "3",
+      "name": "Athul",
+      "email": "vadithyan33@gmail.com",
+      "designation": "Developer",
+      "salary": "40000"
+    },
+    {
+      "id": "4",
+      "name": "Adarsh ",
+      "email": "vadithyan03@gmail.com",
+      "designation": "Developer",
+      "salary": "50000"
+    },
+    {
+      "id": "5",
+      "name": "Rintu",
+      "email": "vadithyan05@gmail.com",
+      "designation": "Developer",
+      "salary": "600000"
+    },
+    {
+      "id": "34",
+      "name": "Arya",
+      "designation": "MEARN Trainee",
+      "email": "vadithyan33@gmail.com",
+      "salary": "40000"
+    },
+    {
+      "id": "5431",
+      "name": "Mac",
+      "email": "vadithyan2023@outlook.com ",
+      "designation": "Developers ",
+      "salary": "55000"
+    }
+  ]
+}
